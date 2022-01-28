@@ -1,4 +1,4 @@
-package com.nycpivot.tanzuspringpetclinicnyc.models;
+package tanzuspringpetclinicnyc.models;
 
 public class PetType {
     private String name;
